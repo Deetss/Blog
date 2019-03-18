@@ -1,5 +1,3 @@
-#Fun Activities for Kids- Fort Worth/ Arlington/ Mansfield Area 
-
 ##Museums 
 
 **Kimbell Art Museum**: Children’s Play Room. **Cost**: the whole museum is free. **Hours**: T-Th 10-5, Fr 12-8, Sat 10-5, Sun 12-5. Located in the back building, ask a worker and they will show you the way. The website says for ages 5 and younger. There are a ton of sensory activities and books available. The outdoor parking is a bit of a walk away but there is underground parking available. I have not used the underground parking yet because I feel safer being outside when I’m alone getting the boys in and out of the car.  
