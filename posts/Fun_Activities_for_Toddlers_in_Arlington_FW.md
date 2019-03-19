@@ -1,4 +1,4 @@
-##Museums{:.section} 
+##Museums{: .section} 
 
 **Kimbell Art Museum**: Children’s Play Room. **Cost**: the whole museum is free. **Hours**: T-Th 10-5, Fr 12-8, Sat 10-5, Sun 12-5. Located in the back building, ask a worker and they will show you the way. The website says for ages 5 and younger. There are a ton of sensory activities and books available. The outdoor parking is a bit of a walk away but there is underground parking available. I have not used the underground parking yet because I feel safer being outside when I’m alone getting the boys in and out of the car.  
 
@@ -16,7 +16,7 @@
 
  
 
-##Play spaces{:.section} 
+##Play spaces{: .section} 
 
 **Celebrations Fort Worth.** **Cost**: Adults-free, 1 and younger-free, kids-$8. **Hours**: T and Th 10-2pm. I found out about this place through Groupon (a good place to check for a discount if you plan on going more than once) and my boys LOVED it. They have a ton of riding cars, toys, a bounce house, and more. The site lists that they have air hockey, basketball, and foosball for older children.  
 
@@ -44,7 +44,7 @@
 
  
 
-##Nature{:.section} 
+##Nature{: .section} 
 
 **Fort Worth Botanic Gardens.** **Cost**: 90% of the garden is free. **Hours**: M-Sun 9-5pm. This is a beautiful and safe location for kids to run around. Check their schedule for fun events!  
 
@@ -62,7 +62,7 @@
 
 **Stockyards Petting Zoo- Fort Worth. Cost**: $2 per person, $3 for a cup of feed. **Hours**: F-Sun 10:30-5pm. “From goats and sheep to more exotic animals such as camels and even occasionally a kangaroo.” 
 
-##Other ideas{:.section} 
+##Other ideas{: .section} 
 
 **Chick Fil A.** I will literally take my kids in there just to play and then use the drive thru to get food after we’re done to save the hassle of eating there.  
 
